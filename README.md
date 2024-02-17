@@ -11,7 +11,7 @@
 - ["Biedronka" wesite](https://github.com/aksi1984/Manual-tests/tree/master/Exploratory%20tests)
 
 
-## Monsieur Cuisine Software##
+## Monsieur Cuisine Software
 It is a multi-functional device for your kitchen with extensive equipment, with lots of recipes with step-by-step instructions, WLAN connection and a 7-inch touchscreen display.
 
 Used tools:
