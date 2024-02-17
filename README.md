@@ -2,7 +2,7 @@
 
 **Projects**
 - [Organista 1.0 Software](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Organista%201.0)
-- [Monsieur Cuisine Software](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Monsieur%20Cuisine)
+- [Monsieur Cuisine Software](## Monsieur Cuisine Software)
 - ["Mój Tauron" application](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Tauron%20application)
 - [TestWarez website](https://github.com/aksi1984/Manual-tests/tree/master/Projects/TestWarez%20website)
 
@@ -16,6 +16,7 @@
 ## Monsieur Cuisine Software
 
 [💻 Link to the site](https://www.monsieur-cuisine.com/pl)
+:
 
 It is a multi-functional device for your kitchen with extensive equipment, with lots of recipes with step-by-step instructions, WLAN connection and a 7-inch touchscreen display.
 
