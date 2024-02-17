@@ -11,4 +11,21 @@
 - ["Biedronka" wesite](https://github.com/aksi1984/Manual-tests/tree/master/Exploratory%20tests)
 
 
+##Monsieur Cuisine Software##
+It is a multi-functional device for your kitchen with extensive equipment, with lots of recipes with step-by-step instructions, WLAN connection and a 7-inch touchscreen display.
+
+Used tools:
+
+![TestRail](https://img.shields.io/badge/TestRail-%230A1A2F?style=flat&logo=TestRail)
+
+[Test reports](https://drive.google.com/drive/folders/1_jTrSFk44w5x8FqTzh025DHh0G_89q-X)
+
+
+Online store website for people using e-cigarettes offering a wide range of products. This is currently a test site - all orders are not fulfilled
+
+Used tools:
+
+![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD) ![Scrrenshot Captor](https://img.shields.io/badge/Screenshot%20Captor-%230A1A2F?style=flat&logo=IJ&logoColor=%230a76ef)
+
+
 
