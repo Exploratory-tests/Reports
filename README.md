@@ -14,7 +14,6 @@
 
 
 ## Monsieur Cuisine Software
---
 It is a multi-functional device for your kitchen with extensive equipment, with lots of recipes with step-by-step instructions, WLAN connection and a 7-inch touchscreen display.
 
 Used tools:
