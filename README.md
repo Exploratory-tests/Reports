@@ -25,6 +25,8 @@ Used tools:
 
 [Test reports](https://drive.google.com/drive/folders/1_jTrSFk44w5x8FqTzh025DHh0G_89q-X)
 
+---
+
 ## "Alechmura" website
 
 Online store website for people using e-cigarettes offering a wide range of products. This is currently a test site - all orders are not fulfilled
