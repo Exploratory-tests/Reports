@@ -1,7 +1,8 @@
 ## Index
 
-- ["Alechmura" website](https://github.com/aksi1984/Manual-tests/tree/master/Exploratory%20tests)
-- ["Biedronka" wesite](https://github.com/aksi1984/Manual-tests/tree/master/Exploratory%20tests)
+- ["Alechmura" website](https://github.com/Exploratory-tests/Reports/tree/master/Alechmura-website)
+- ["Biedronka" wesite](https://github.com/Exploratory-tests/Reports/tree/master/Biedronka-website)
+- [Leszczyny parish website](https://github.com/Exploratory-tests/Reports/tree/master/Leszczyny-parish-website)
 
   
 
